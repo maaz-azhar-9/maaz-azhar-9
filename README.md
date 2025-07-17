@@ -8,3 +8,6 @@ A passionate frontend developer from India
 - 📫 How to reach me: maazazha9r@gmail.com
 - ⚡ Fun fact: I love solving coding puzzles!
 
+![Coding](https://media.giphy.com/media/yourgifurl/giphy.gif)
+
+
