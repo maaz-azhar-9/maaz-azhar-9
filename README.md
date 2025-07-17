@@ -18,7 +18,8 @@ A passionate frontend developer from India
 [![StackBlitz](https://img.shields.io/badge/StackBlitz-Live%20Demos-blue?logo=stackblitz)](https://stackblitz.com/maaz-azhar-9)
 
 - 🧩 [Configuration Based Dynamic Forms in Angular](https://stackblitz.com/edit/stackblitz-starters-oqnwh9?file=src%2Fmain.ts)
-- 🧪 [NGRX For Beginners](https://stackblitz.com/edit/stackblitz-starters-hfb7qffh?file=src%2Fmain.ts)
+- 💳 [Stripe Payment POC](https://stackblitz.com/edit/stackblitz-starters-pimiyusb?file=src%2Fmain.ts)
+- 📦 [NgRx For Beginners](https://stackblitz.com/edit/stackblitz-starters-hfb7qffh?file=src%2Fmain.ts)
 
 
 
