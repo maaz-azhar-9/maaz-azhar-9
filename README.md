@@ -5,7 +5,7 @@ A passionate frontend developer from India
 
 - 🌱 I’m currently learning full stack development.
 - 💬 Ask me about Angular, TypeScript and RxJS
-- 📫 How to reach me: maazazha9r@gmail.com
+- 📫 How to reach me: maazazhar9@gmail.com
 - ⚡ Fun fact: I love solving coding puzzles!
 
 
