@@ -22,6 +22,11 @@ A passionate frontend developer from India
 - 📦 [NgRx For Beginners](https://stackblitz.com/edit/stackblitz-starters-hfb7qffh?file=src%2Fmain.ts)
 
 
+## 📜 Certifications
+
+- 🖥️ [Backend Development and APIs – freeCodeCamp](https://www.freecodecamp.org/certification/fcc7fe1cb2d-99e1-497a-b962-c5737c5ce63a/back-end-development-and-apis)
+
+
 
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaz-azhar-9&show_icons=true&theme=radical)
