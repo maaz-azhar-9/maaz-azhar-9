@@ -9,9 +9,6 @@ A passionate frontend developer from India
 - ⚡ Fun fact: I love solving coding puzzles!
 
 
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9uYXNoN3M3MGo1OG44d3UwZDFkZWQxZXJwbGs0cGY0Zzc2amNsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaz-azhar-9&show_icons=true&theme=radical)
 
 
