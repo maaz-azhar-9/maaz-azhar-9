@@ -13,6 +13,15 @@ A passionate frontend developer from India
 - [LinkedIn](https://linkedin.com/in/mohd-maaz-azhar-57847716b)
 
 
+## 🚀 Live Demos on StackBlitz
+
+[![StackBlitz](https://img.shields.io/badge/StackBlitz-Live%20Demos-blue?logo=stackblitz)](https://stackblitz.com/maaz-azhar-9)
+
+- 🧩 [Configuration Based Dynamic Forms in Angular](https://stackblitz.com/edit/stackblitz-starters-oqnwh9?file=src%2Fmain.ts)
+- 🧪 [NGRX For Beginners](https://stackblitz.com/edit/stackblitz-starters-hfb7qffh?file=src%2Fmain.ts)
+
+
+
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaz-azhar-9&show_icons=true&theme=radical)
 
