@@ -9,6 +9,10 @@ A passionate frontend developer from India
 - ⚡ Fun fact: I love solving coding puzzles!
 
 
+## ✨ Connect with me:
+- [LinkedIn](https://linkedin.com/in/mohd-maaz-azhar-57847716b)
+
+
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaz-azhar-9&show_icons=true&theme=radical)
 
