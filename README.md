@@ -35,9 +35,6 @@ A passionate frontend developer from India
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-azhar-9&layout=compact&theme=radical)](https://github.com/maaz-azhar-9)
 
 
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/maazdev/maazdev/blob/output/github-contribution-grid-snake.svg)
 
 
 
