@@ -25,6 +25,8 @@ A passionate frontend developer from India
 ## 📜 Certifications
 
 - 🖥️ [Backend Development and APIs – freeCodeCamp](https://www.freecodecamp.org/certification/fcc7fe1cb2d-99e1-497a-b962-c5737c5ce63a/back-end-development-and-apis)
+- 🖥️ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/d4a776f565ff)
+- 🖥️ [Angular – HackerRank](https://www.hackerrank.com/certificates/273910a202c9)
 
 
 
