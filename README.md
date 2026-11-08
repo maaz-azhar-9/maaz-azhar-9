@@ -158,6 +158,7 @@ Associate Software Engineer — GlobalLogic · Covetrus (Healthcare SaaS)   Jun 
 ### 🎓 Education
 
 **Master of Computer Applications (MCA)** — Aligarh Muslim University, 2022
+
 **B.Sc (Hons) Computer Application** — Aligarh Muslim University, 2019
 
 ---
