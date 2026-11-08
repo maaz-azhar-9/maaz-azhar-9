@@ -1,5 +1,5 @@
 <h1 align="center">Maaz Azhar (Mohd Maaz Azhar) — Senior Angular Developer</h1>
-<h3 align="center">Angular 17+ · Signals · NgRx · RxJS · TypeScript | Google Looker Studio & Looker | Java Spring Boot · Node.js | GenAI (Spring AI, RAG) | Author, “Not Replaced, Rewired”</h3>
+<h3 align="center">Angular 14+ · Signals · NgRx · RxJS · TypeScript | Google Looker Studio & Looker | Java Spring Boot · Node.js | GenAI (Spring AI, RAG) | Author, “Not Replaced, Rewired”</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=maaz-azhar-9&color=blue&style=flat-square" alt="Maaz Azhar GitHub profile views counter" />
@@ -36,7 +36,7 @@ I'm **Maaz Azhar** (Mohd Maaz Azhar), a **Senior Angular Developer** in Delhi NC
 **Frontend — Angular, React, TypeScript**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Angular_17+-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Angular_14+-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Signals" />
 <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx" />
 <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
