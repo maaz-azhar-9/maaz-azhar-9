@@ -120,7 +120,7 @@ Associate Software Engineer — GlobalLogic · Covetrus (Healthcare SaaS)   Jun 
 
 ### 🌟 Featured Project: AI / RAG Application
 
-#### 🔗 [Anonybook — AI-Powered Distributed Social Platform](https://github.com/maaz-azhar-9)
+#### Anonybook — AI-Powered Distributed Social Platform
 *A distributed social platform built with Angular, Node.js microservices, OpenAI API, and Qdrant Vector Database*
 
 - Architected an **AI-driven social platform** using the **MEAN Stack** and decoupled **Node.js microservices** for fault isolation and independent scaling.
