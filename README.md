@@ -128,6 +128,20 @@ Associate Software Engineer — GlobalLogic · Covetrus (Healthcare SaaS)   Jun 
 
 ---
 
+### 🧠 Mock It — AI Mock Exam Platform *(live product · private source)*
+
+An AI-powered mock exam platform I designed and built end to end: **Angular** frontend, **Java / Spring Boot / Spring AI** backend, PostgreSQL, online payments and Docker deployment. It generates fresh exams on any topic, scores attempts and reports weak and strong areas.
+
+[Product showcase →](https://github.com/maaz-azhar-9/mock-it-showcase)
+
+---
+
+### ☕ Spring AI RAG Service *(open source)*
+
+A RAG service built with **Spring Boot 3, Spring AI and PGVector**. It returns cited, grounded answers, wraps every model call in a hard timeout with retries, maps errors to RFC 9457 problem details, and ships with Docker Compose and GitHub Actions CI. [View repo →](https://github.com/maaz-azhar-9/spring-ai-rag-service)
+
+---
+
 ### 🚀 Live Angular Demos on StackBlitz
 
 [![StackBlitz](https://img.shields.io/badge/StackBlitz-View%20Live%20Demos-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white)](https://stackblitz.com/maaz-azhar-9)
