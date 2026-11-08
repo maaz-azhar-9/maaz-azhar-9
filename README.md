@@ -1,9 +1,9 @@
 <h1 align="center">Maaz Azhar (Mohd Maaz Azhar) — Senior Angular Developer</h1>
-<h3 align="center">Angular 14+ · Signals · NgRx · RxJS · TypeScript | Google Looker Studio & Looker | Java Spring Boot · Node.js | GenAI (Spring AI, RAG) | Author, “Not Replaced, Rewired”</h3>
+<h3 align="center">Angular 17+ · Signals · NgRx · RxJS · TypeScript | Google Looker Studio & Looker | Java Spring Boot · Node.js | GenAI (Spring AI, RAG) | Author, “Not Replaced, Rewired”</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=maaz-azhar-9&color=blue&style=flat-square" alt="Maaz Azhar GitHub profile views counter" />
-<a href="https://www.linkedin.com/in/mohd-maaz-azhar-57847716b/">
+<a href="https://www.linkedin.com/in/mohd-maaz-azhar-57877716b/">
 <img src="https://img.shields.io/badge/LinkedIn-Maaz%20Azhar-blue?logo=linkedin&style=flat-square" alt="Maaz Azhar on LinkedIn — Senior Angular Developer" />
 </a>
 <a href="mailto:maazazhar9@gmail.com">
@@ -19,15 +19,13 @@
 
 ### 👨‍💻 About Me
 
-I'm **Maaz Azhar** (Mohd Maaz Azhar), a **Senior Angular Developer** in Delhi NCR, India, with **4+ years** building production **Angular** apps. I currently work on **Google's Looker Studio and Looker** through **Hitachi Digital (formerly GlobalLogic)**.
+**Senior Angular Developer** (4+ yrs) in Delhi NCR, India, building **Google's Looker Studio & Looker** through **Hitachi Digital (formerly GlobalLogic)**. I lead AngularJS → Angular 17+ migrations, ship React features through Google's code review, and build full-stack GenAI apps with **Node.js, Java/Spring Boot and RAG**.
 
-- 🅰️ Migrated core **Looker Studio** components from **AngularJS to Angular 17+** with full behavioral parity, backed by regression suites written against legacy behavior.
-- ⚛️ Shipped features in **Looker's React front end** through Google's code review, raising test coverage to **80%+** (Jest + Cypress).
-- 🏥 On a **15,000-user healthcare SaaS** (Covetrus): cut a feature's API calls by **50%** with NgRx caching, reduced image traffic ~40%, moved state to **Angular Signals**, and built reusable component libraries that sped up UI delivery ~25%.
-- ☕ Full stack in **Java / Spring Boot** and **Node.js**, with hands-on **GenAI** work (Spring AI, Gemini, OpenAI, RAG).
-- 🏆 Promoted 3 times in 3 years · GlobalLogic **Spot Award** and **Ace Award ×3** · 1st place at **AMUHacks 1.0**.
-- 📖 Author of **[“Not Replaced, Rewired: An Engineer's Journey Through AI's Rise”](https://amzn.in/d/0d7Vx41Q)**.
-- 📫 **Reach me:** maazazhar9@gmail.com | [LinkedIn — Maaz Azhar](https://www.linkedin.com/in/mohd-maaz-azhar-57847716b/)
+- 🏥 Covetrus healthcare SaaS (15K users): **−50% API calls** via NgRx caching, **~40%** less image traffic, **~25%** faster UI delivery with reusable component libraries
+- 🏆 Promoted 3× in 3 years · Ace Award ×3 · Spot Award · 1st place, AMUHacks 1.0
+- 📖 Author of **[“Not Replaced, Rewired: An Engineer's Journey Through AI's Rise”](https://amzn.in/d/0d7Vx41Q)**
+- 🎯 **Open to:** Senior Frontend / Full-stack Engineer roles (Angular + Java/Node.js) · Delhi NCR / Remote
+- 📫 maazazhar9@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohd-maaz-azhar-57877716b/)
 
 ---
 
@@ -36,7 +34,7 @@ I'm **Maaz Azhar** (Mohd Maaz Azhar), a **Senior Angular Developer** in Delhi NC
 **Frontend — Angular, React, TypeScript**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Angular_14+-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Angular_17+-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Signals" />
 <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx" />
 <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
@@ -120,13 +118,13 @@ Associate Software Engineer — GlobalLogic · Covetrus (Healthcare SaaS)   Jun 
 
 ### 🌟 Featured Project: AI / RAG Application
 
-#### Anonybook — AI-Powered Distributed Social Platform
-*A distributed social platform built with Angular, Node.js microservices, OpenAI API, and Qdrant Vector Database*
+#### [Anonybook](https://github.com/maaz-azhar-9/anonybook) — AI-Powered Distributed Social Platform
+*Angular + Node.js microservices + OpenAI + Qdrant* · [Live demo](https://my-mean-project-gamma.vercel.app) · Code: [core app](https://github.com/maaz-azhar-9/anonybook) · [AI microservice](https://github.com/maaz-azhar-9/ai-post-suggestion)
 
 - Architected an **AI-driven social platform** using the **MEAN Stack** and decoupled **Node.js microservices** for fault isolation and independent scaling.
 - Built a **multilingual semantic search engine** via a **RAG pipeline** — posts embedded with OpenAI `text-embedding-3-large` (3072 dims), stored in **Qdrant**, retrieved via cosine similarity.
-- **Multi-cloud deployment**: Angular on Vercel, Node.js API on Render, AI microservice on Railway — secured with JWT auth and rate limiting.
-- Google OAuth login, image uploads (Multer + Cloudinary), and debounced search with RxJS.
+- **Multi-cloud deployment**: Angular on Vercel, Node.js API on Render, AI microservice on Railway — secured with JWT auth.
+- Google OAuth login, image uploads (Multer + Cloudinary), and bcrypt-hashed email/password auth.
 
 ---
 
@@ -148,9 +146,6 @@ Associate Software Engineer — GlobalLogic · Covetrus (Healthcare SaaS)   Jun 
 - 🎓 **Qualified UGC NET** — December 2023
 - 🤖 **AI 202: GL Certified AI Professional — Generative AI** (2025)
 - 📚 [Generative AI for Node.js: OpenAI & LangChain (TypeScript)](https://www.udemy.com) — Udemy (2025)
-- 🖥️ [Back End Development and APIs — freeCodeCamp](https://www.freecodecamp.org/certification/fcc7fe1cb2d-99e1-497a-b962-c5737c5ce63a/back-end-development-and-apis)
-- 🖥️ [JavaScript (Intermediate) Certification — HackerRank](https://www.hackerrank.com/certificates/d4a776f565ff)
-- 🖥️ [Angular Certification — HackerRank](https://www.hackerrank.com/certificates/273910a202c9)
 - ✍️ Articles: *Developing Configuration-Based Dynamic Forms with Angular* (LinkedIn) · *Custom Color Palette in Angular* & *NgRx for Beginners* (GL Practices)
 
 ---
@@ -165,7 +160,7 @@ Associate Software Engineer — GlobalLogic · Covetrus (Healthcare SaaS)   Jun 
 
 ### 🌐 Find Maaz Azhar Online
 
-[LinkedIn](https://www.linkedin.com/in/mohd-maaz-azhar-57847716b/) · [GitHub](https://github.com/maaz-azhar-9) · [StackBlitz](https://stackblitz.com/maaz-azhar-9) · [Book on Amazon](https://amzn.in/d/0d7Vx41Q) · [Email](mailto:maazazhar9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohd-maaz-azhar-57877716b/) · [GitHub](https://github.com/maaz-azhar-9) · [StackBlitz](https://stackblitz.com/maaz-azhar-9) · [Book on Amazon](https://amzn.in/d/0d7Vx41Q) · [Email](mailto:maazazhar9@gmail.com)
 
 ---
 
