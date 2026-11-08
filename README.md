@@ -171,8 +171,8 @@ Associate Software Engineer — GlobalLogic · Covetrus (Healthcare SaaS)   Jun 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maaz-azhar-9&show_icons=true&theme=radical&hide_border=true" alt="Maaz Azhar's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-azhar-9&layout=compact&theme=radical&hide_border=true" alt="Maaz Azhar's most used programming languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maaz-azhar-9&theme=radical" alt="Maaz Azhar's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maaz-azhar-9&theme=radical" alt="Maaz Azhar's top languages by repo" />
 </p>
 
 <p align="center">
